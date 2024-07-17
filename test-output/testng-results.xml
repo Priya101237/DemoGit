@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-16T14:44:38 IST" name="Default suite" finished-at="2024-07-16T14:45:21 IST" duration-ms="43625">
+    <groups>
+    </groups>
+    <test started-at="2024-07-16T14:44:38 IST" name="Default test" finished-at="2024-07-16T14:45:21 IST" duration-ms="43625">
+      <class name="Amz_Test.AMZ_TC">
+        <test-method is-config="true" signature="Launch_Browser()[pri:0, instance:Amz_Test.AMZ_TC@515c6049]" started-at="2024-07-16T14:44:38 IST" name="Launch_Browser" finished-at="2024-07-16T14:44:47 IST" duration-ms="9754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Browser -->
+        <test-method signature="amaz_TC()[pri:0, instance:Amz_Test.AMZ_TC@515c6049]" started-at="2024-07-16T14:44:47 IST" name="amaz_TC" finished-at="2024-07-16T14:45:21 IST" duration-ms="33831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amaz_TC -->
+      </class> <!-- Amz_Test.AMZ_TC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
